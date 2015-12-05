@@ -37,8 +37,8 @@
   </Item>
   <Item>
     <ID>Smelting</ID>
-    <Name>Fonte</Name>
-    <Title>Fondeur</Title>
+    <Name>Fonderie</Name>
+    <Title>Fondeur de métaux</Title>
   </Item>
   <Item>
     <ID>Blacksmithing</ID>
@@ -48,7 +48,7 @@
   <Item>
     <ID>Metalworking</ID>
     <Name>Travail du metal</Name>
-    <Title>Metallier</Title>
+    <Title>Metallurgiste</Title>
   </Item>
   <Item>
     <ID>WeaponCrafting</ID>
@@ -132,7 +132,7 @@
   </Item>
   <Item>
     <ID>Cooking</ID>
-    <Name>Cuisne</Name>
+    <Name>Cuisine</Name>
     <Title>Chef</Title>
   </Item>
   <Item>
@@ -218,7 +218,7 @@
   <Item>
     <ID>Bonecarving</ID>
     <Name>Sculpture sur os</Name>
-    <Title>Sculpteur sur os</Title>
+    <Title>Sculpteur d'os</Title>
   </Item>
   <Item>
     <ID>Prospecting</ID>
